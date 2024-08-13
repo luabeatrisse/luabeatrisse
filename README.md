@@ -1,10 +1,12 @@
 Oioi🫀
 
-My name is Roberta da batata, haha brincadeiras a parte meu nome é Luana Beatrisse
+Meu nome é Luana Beatrisse
 
 Estou aprendendo a utilizar a linguagem JavaScript
 
-Não quero que entrem em contato comigo porem meu e-mail é:
+Estou estudando no alura
+
+Meu e-mail é:
 
 luana.lima.silva08@escola.gov.pr.br
 
